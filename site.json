@@ -2,7 +2,7 @@
   "siteName": "Topic Tester",
   "baseUrl": "https://topic-tester.topiclab.workers.dev",
   "formEndpoint": "https://formspree.io/f/xkjrvkke",
-  "analyticsToken": "",
+  "analyticsToken": "38130247314f4cd495a423af2936ff29",
   "ctaLabel": "Get the free checklist",
   "ctaUrl": "https://YOUR_GUMROAD_OR_BOOKING_URL"
 }
