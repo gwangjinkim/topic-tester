@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}} | {{SITE_NAME}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<link rel="canonical" href="{{CANONICAL}}">
+{{ANALYTICS_SCRIPT}}
+<link rel="stylesheet" href="{{ASSET_BASE}}/assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="{{ASSET_BASE}}/">{{SITE_NAME}}</a>
+  <span class="badge">Topic test</span>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <p class="eyebrow">{{PIN_ANGLE}}</p>
+    <h1>{{TITLE}}</h1>
+    <p class="lede">{{DESCRIPTION}}</p>
+    <ul class="bullets">
+{{BULLETS}}
+    </ul>
+    <div class="actions">
+      <a class="btn btn-primary" href="{{CTA_URL}}" target="_blank" rel="noopener noreferrer">{{CTA_LABEL}}</a>
+      <button class="btn btn-ghost" id="copy-link" type="button" data-base-url="{{BASE_URL}}" data-slug="{{SLUG}}">Copy Pinterest link</button>
+    </div>
+    <p class="status" id="copy-status" role="status" aria-live="polite"></p>
+  </section>
+
+  <section class="capture" id="signup">
+    <h2>Get the checklist by email</h2>
+    <p class="capture-note">One useful email, then the checklist. No spam.</p>
+    <form id="signup-form" action="{{FORM_ENDPOINT}}" method="POST">
+      <label class="sr-only" for="email">Email address</label>
+      <input id="email" name="email" type="email" required placeholder="you@example.com" autocomplete="email">
+      <input type="hidden" name="topic" value="{{SLUG}}">
+      <input type="hidden" name="utm_source" class="utm-source" value="">
+      <input type="hidden" name="utm_medium" class="utm-medium" value="">
+      <input type="hidden" name="utm_campaign" class="utm-campaign" value="">
+      <button class="btn btn-primary" type="submit">Send it</button>
+    </form>
+    <p class="fine">Unsubscribe anytime. Affiliate links, if any, are disclosed.</p>
+  </section>
+
+  <aside class="tip">
+    <h3>How to use this page</h3>
+    <ol>
+      <li>Copy the Pinterest link above.</li>
+      <li>Pin this page with a matching image and title.</li>
+      <li>Check clicks and signups after 14 days.</li>
+    </ol>
+  </aside>
+</main>
+
+<footer class="footer">
+  <span>{{SITE_NAME}}</span>
+  <a href="{{ASSET_BASE}}/">All topic tests</a>
+</footer>
+
+<script src="{{ASSET_BASE}}/assets/app.js" defer></script>
+</body>
+</html>

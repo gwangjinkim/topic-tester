@@ -1,0 +1,12 @@
+{
+  "name": "pinterest-topic-tester",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free-hosted static topic pages for validating Pinterest niches with agents.",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

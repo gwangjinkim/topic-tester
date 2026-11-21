@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "small-kitchen-organizing",
+    "title": "Small kitchen organizing ideas that actually work",
+    "description": "A practical guide to zones, storage and the five things worth buying for a tiny kitchen.",
+    "bullets": [
+      "Zone counters by task, not by appliance",
+      "Use vertical space before buying more bins",
+      "Keep one 'landing tray' for daily clutter",
+      "Buy containers only after you declutter",
+      "Do a 10-minute reset before bed"
+    ],
+    "pinAngle": "Before and after counter reset"
+  },
+  {
+    "slug": "capsule-wardrobe-checklist",
+    "title": "The 30-piece capsule wardrobe checklist for beginners",
+    "description": "A simple checklist to build a wardrobe you actually wear, without buying everything at once.",
+    "bullets": [
+      "Start with what you already own",
+      "Pick one neutral and one accent colour",
+      "Aim for 5 tops, 3 bottoms, 2 layers",
+      "Count outfits, not items",
+      "Add one piece only when you find a gap"
+    ],
+    "pinAngle": "Printable checklist flat lay"
+  },
+  {
+    "slug": "budget-travel-packing",
+    "title": "Carry-on only packing list for a weekend trip",
+    "description": "Pack light without forgetting the things that matter. Works for trains, planes and buses.",
+    "bullets": [
+      "Choose a bag before you choose clothes",
+      "Roll, don't fold, for soft items",
+      "Wear the bulky layer on travel day",
+      "Limit toiletries to a single pouch",
+      "Leave 20% of the bag empty"
+    ],
+    "pinAngle": "Open suitcase with labelled sections"
+  },
+  {
+    "slug": "beginner-plant-care",
+    "title": "Five houseplants that are hard to kill",
+    "description": "Low-light, low-effort plants for a first apartment, with the one rule each plant needs.",
+    "bullets": [
+      "Snake plant: water when soil is dry",
+      "Pothos: forgiving in low light",
+      "ZZ plant: needs very little water",
+      "Spider plant: bright, indirect light",
+      "Check soil, not the calendar"
+    ],
+    "pinAngle": "Three plants on a windowsill"
+  },
+  {
+    "slug": "home-office-on-a-budget",
+    "title": "A calm home office setup under $200",
+    "description": "A budget-friendly desk setup that looks intentional and actually improves focus.",
+    "bullets": [
+      "Clear the desk before buying anything",
+      "Prioritise chair height and screen level",
+      "Use one lamp, not three",
+      "Hide cables with a simple sleeve",
+      "Add one personal item, maximum"
+    ],
+    "pinAngle": "Minimal desk before and after"
+  },
+  {
+    "slug": "meal-prep-for-busy-week",
+    "title": "Sunday meal prep for a busy week",
+    "description": "A two-hour prep routine that gives you five lunches without eating the same thing daily.",
+    "bullets": [
+      "Cook one base grain and one protein",
+      "Chop vegetables once, use twice",
+      "Make two sauces, not five",
+      "Pack lunches in single-serve containers",
+      "Freeze one portion for emergencies"
+    ],
+    "pinAngle": "Five containers in a row"
+  },
+  {
+    "slug": "minimalist-bathroom",
+    "title": "A minimalist bathroom reset in one afternoon",
+    "description": "Simple swaps and a clear surface routine that makes a small bathroom feel bigger.",
+    "bullets": [
+      "Remove everything from the counter",
+      "Keep daily items in one tray",
+      "Match two containers, not ten",
+      "Use the shower caddy vertically",
+      "Wipe the mirror last"
+    ],
+    "pinAngle": "Counter cleared with one tray"
+  },
+  {
+    "slug": "side-hustle-ideas-beginners",
+    "title": "Seven side hustles you can start this week",
+    "description": "Realistic, low-cost side hustles for beginners, with what each one actually requires.",
+    "bullets": [
+      "Sell unused items first",
+      "Offer one simple local service",
+      "Create a digital template once, sell repeatedly",
+      "Test before you build a website",
+      "Track time, not just money"
+    ],
+    "pinAngle": "Notebook with seven ideas"
+  },
+  {
+    "slug": "digital-planner-templates",
+    "title": "Digital planner templates that saved my Sundays",
+    "description": "A starter set of simple planner pages for weekly planning, habits and a brain dump.",
+    "bullets": [
+      "One weekly view, not five",
+      "Habit tracker with only three habits",
+      "Brain dump page for Sunday night",
+      "Links that work in your notes app",
+      "Print-friendly version included"
+    ],
+    "pinAngle": "Tablet showing weekly spread"
+  },
+  {
+    "slug": "weekend-hiking-checklist",
+    "title": "The ten things to pack for a day hike",
+    "description": "A lightweight day-hike checklist that covers safety without filling your pack.",
+    "bullets": [
+      "Water plus a backup filter",
+      "Map downloaded offline",
+      "Layer for weather change",
+      "Small first-aid kit",
+      "Tell someone your route"
+    ],
+    "pinAngle": "Pack laid out on a trailhead"
+  }
+]
