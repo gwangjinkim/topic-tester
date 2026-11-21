@@ -1,7 +1,7 @@
 {
   "siteName": "Topic Tester",
-  "baseUrl": "https://YOUR_PROJECT.pages.dev",
-  "formEndpoint": "https://formspree.io/f/YOUR_FORM_ID",
+  "baseUrl": "https://topic-tester.pages.dev",
+  "formEndpoint": "https://formspree.io/f/xkjrvkke",
   "analyticsToken": "",
   "ctaLabel": "Get the free checklist",
   "ctaUrl": "https://YOUR_GUMROAD_OR_BOOKING_URL"
