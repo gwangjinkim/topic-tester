@@ -1,6 +1,6 @@
 {
   "siteName": "Topic Tester",
-  "baseUrl": "https://topic-tester.pages.dev",
+  "baseUrl": "https://topic-tester.topiclab.pages.dev",
   "formEndpoint": "https://formspree.io/f/xkjrvkke",
   "analyticsToken": "",
   "ctaLabel": "Get the free checklist",
